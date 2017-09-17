@@ -20,5 +20,3 @@ cd
 ls
 pwd
 rm
-
-的是非得失v
